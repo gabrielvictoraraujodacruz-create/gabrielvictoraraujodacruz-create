@@ -79,3 +79,4 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 ![Visitantes](https://komarev.com/ghpvc/?username=gabrielvictoraraujodacruz-create&color=blueviolet&style=flat-square&label=Visitas+ao+perfil)
 
 </div>
+
