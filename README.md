@@ -29,6 +29,7 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -67,11 +68,11 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 | Projeto | Descrição |
 |---|---|
 | [🪽 Hermes Agent + Claude Code](https://github.com/gabrielvictoraraujodacruz-create/Hermes_Agente_de_IA) | Projetos que construí com agentes de IA e um guia pro Hermes oficial |
-| [💰 Assistente Financeiro GEP](https://github.com/gabrielvictoraraujodacruz-create/Projeto_Assistente_financeiro_GEP) | Projeto de assistente financeiro — interface e lógica |
+| [💰 Assistente Financeiro GEP](https://github.com/gabrielvictoraraujodacruz-create/Projeto_Assistente_financeiro_GEP) | Projeto em grupo: conceito e página de apresentação ([ver no ar](https://gabrielvictoraraujodacruz-create.github.io/Projeto_Assistente_financeiro_GEP/)) |
 | [🎨 Interface e Jornada do Usuário](https://github.com/gabrielvictoraraujodacruz-create/Interface_e_jornada_do_usuario) | Estudos de UX/UI e experiência do usuário |
 | [🤖 Engenharia de Prompt & Aplicações de IA](https://github.com/gabrielvictoraraujodacruz-create/engenharia_de_prompt_aplicacoes_ai) | Atividades da faculdade sobre IA e engenharia de prompt |
 | [🍃 Estudos MongoDB](https://github.com/gabrielvictoraraujodacruz-create/Estudos_MongoDB) | Anotações, exemplos no mongosh e base pra projetos com MongoDB |
-| [📚 Home Study](https://github.com/gabrielvictoraraujodacruz-create/Home_Study) | Repositório de estudos pessoais |
+| [📚 Home Study](https://github.com/gabrielvictoraraujodacruz-create/Home_Study) | Meus estudos de casa (conteúdo privado) |
 
 ---
 
