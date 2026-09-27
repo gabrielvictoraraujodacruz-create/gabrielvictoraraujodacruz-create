@@ -12,10 +12,11 @@
 
 Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na área jurídica e descobri minha paixão: **usar tecnologia e IA para automatizar processos do mundo real** — geração de documentos, integrações com CRM, agentes de IA e fluxos de trabalho inteligentes.
 
-- 🌱 Atualmente estudando: desenvolvimento de software, banco de dados (SQL e MongoDB), engenharia de prompt e agentes de IA
-- ⚙️ Na prática: automação de documentos, integração de sistemas e bots
+- 🌱 Atualmente estudando: algoritmos em C, banco de dados (MySQL e MongoDB), front-end e agentes de IA
+- ⚙️ Na prática: automação de documentos em Python, integração de sistemas e um agente de IA no WhatsApp ([Hermes](https://github.com/gabrielvictoraraujodacruz-create/Hermes_Agente_de_IA))
+- 🤖 No dia a dia: uso o **Claude Code** como par de programação, eu decido, reviso e testo, e ele acelera a escrita
 - 🎯 Objetivo: unir **Direito + Tecnologia** para criar soluções que economizam horas de trabalho
-- 💬 Pode me perguntar sobre: automação com IA, Claude, engenharia de prompt
+- 💬 Pode me perguntar sobre: agentes de IA, Python, MySQL e automação de processos
 
 ---
 
@@ -64,6 +65,7 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 
 | Projeto | Descrição |
 |---|---|
+| [🪽 Hermes: agente de IA no WhatsApp](https://github.com/gabrielvictoraraujodacruz-create/Hermes_Agente_de_IA) | Como eu uso o Hermes Agent no dia a dia: arquitetura, rotina e projetos com Claude Code |
 | [💰 Assistente Financeiro GEP](https://github.com/gabrielvictoraraujodacruz-create/Projeto_Assistente_financeiro_GEP) | Projeto de assistente financeiro — interface e lógica |
 | [🎨 Interface e Jornada do Usuário](https://github.com/gabrielvictoraraujodacruz-create/Interface_e_jornada_do_usuario) | Estudos de UX/UI e experiência do usuário |
 | [🤖 Engenharia de Prompt & Aplicações de IA](https://github.com/gabrielvictoraraujodacruz-create/engenharia_de_prompt_aplicacoes_ai) | Atividades da faculdade sobre IA e engenharia de prompt |
