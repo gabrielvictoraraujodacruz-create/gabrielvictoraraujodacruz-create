@@ -14,7 +14,7 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 
 - 🌱 Atualmente estudando: algoritmos em C, banco de dados (MySQL e MongoDB), front-end e agentes de IA
 - ⚙️ Na prática: automação de documentos em Python, integração de sistemas e agentes de IA ([Hermes + Claude Code](https://github.com/gabrielvictoraraujodacruz-create/Hermes_Agente_de_IA))
-- 🤖 No dia a dia: uso o **Claude Code** como par de programação, eu decido, reviso e testo, e ele acelera a escrita
+- 🤖 **Claude Code**: tenho bastante experiência com o harness. Configuro hooks, skills, subagentes, servidores MCP e memória persistente pra deixar o agente do jeito do meu fluxo de trabalho
 - 🎯 Objetivo: unir **Direito + Tecnologia** para criar soluções que economizam horas de trabalho
 - 🌎 Idiomas: português (nativo) e inglês (avançado, converso por horas sem problema)
 - 💬 Pode me perguntar sobre: agentes de IA, Python, MySQL e automação de processos
@@ -34,7 +34,7 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
