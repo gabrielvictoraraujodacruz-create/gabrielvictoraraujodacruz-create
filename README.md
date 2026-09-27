@@ -12,7 +12,7 @@
 
 Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na área jurídica e descobri minha paixão: **usar tecnologia e IA para automatizar processos do mundo real** — geração de documentos, integrações com CRM, agentes de IA e fluxos de trabalho inteligentes.
 
-- 🌱 Atualmente estudando: desenvolvimento de software, engenharia de prompt e agentes de IA
+- 🌱 Atualmente estudando: desenvolvimento de software, banco de dados (SQL e MongoDB), engenharia de prompt e agentes de IA
 - ⚙️ Na prática: automação de documentos, integração de sistemas e bots
 - 🎯 Objetivo: unir **Direito + Tecnologia** para criar soluções que economizam horas de trabalho
 - 💬 Pode me perguntar sobre: automação com IA, Claude, engenharia de prompt
@@ -27,6 +27,8 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -35,6 +37,14 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 </div>
+
+---
+
+## 🏅 Certificados & aprendizado
+
+| Certificado | Emissor | Data |
+|---|---|---|
+| [CRUD Operations in MongoDB](https://www.credly.com/badges/4d92aacb-0036-44a3-84ad-6a0607da9bbc) | MongoDB (Credly) | set/2026 |
 
 ---
 
@@ -57,6 +67,7 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 | [💰 Assistente Financeiro GEP](https://github.com/gabrielvictoraraujodacruz-create/Projeto_Assistente_financeiro_GEP) | Projeto de assistente financeiro — interface e lógica |
 | [🎨 Interface e Jornada do Usuário](https://github.com/gabrielvictoraraujodacruz-create/Interface_e_jornada_do_usuario) | Estudos de UX/UI e experiência do usuário |
 | [🤖 Engenharia de Prompt & Aplicações de IA](https://github.com/gabrielvictoraraujodacruz-create/engenharia_de_prompt_aplicacoes_ai) | Atividades da faculdade sobre IA e engenharia de prompt |
+| [🍃 Estudos MongoDB](https://github.com/gabrielvictoraraujodacruz-create/Estudos_MongoDB) | Anotações, exemplos no mongosh e base pra projetos com MongoDB |
 | [📚 Home Study](https://github.com/gabrielvictoraraujodacruz-create/Home_Study) | Repositório de estudos pessoais |
 
 ---
@@ -67,6 +78,8 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielvictoraraujodacruz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielvictoraraujodacruz-create)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielvictorcruz)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/gabrielvictorcruz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gabriel.vtac)
 
 </div>
