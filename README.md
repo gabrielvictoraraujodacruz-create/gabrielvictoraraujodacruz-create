@@ -55,9 +55,10 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielvictoraraujodacruz-create&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true)
+![Resumo do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielvictoraraujodacruz-create&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvictoraraujodacruz-create&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true)
+![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielvictoraraujodacruz-create&theme=tokyonight)
+![Sequência de contribuições](https://streak-stats.demolab.com?user=gabrielvictoraraujodacruz-create&theme=tokyonight&hide_border=true&locale=pt_BR)
 
 </div>
 
