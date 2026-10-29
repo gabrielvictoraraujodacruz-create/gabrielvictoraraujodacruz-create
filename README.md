@@ -73,6 +73,7 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 | [💰 Assistente Financeiro GEP](https://github.com/gabrielvictoraraujodacruz-create/Projeto_Assistente_financeiro_GEP) | Projeto em grupo: conceito e página de apresentação ([ver no ar](https://gabrielvictoraraujodacruz-create.github.io/Projeto_Assistente_financeiro_GEP/)) |
 | [🎨 Interface e Jornada do Usuário](https://github.com/gabrielvictoraraujodacruz-create/Interface_e_jornada_do_usuario) | Estudos de UX/UI e experiência do usuário |
 | [🤖 Engenharia de Prompt & Aplicações de IA](https://github.com/gabrielvictoraraujodacruz-create/engenharia_de_prompt_aplicacoes_ai) | Atividades da faculdade sobre IA e engenharia de prompt |
+| [🌍 Temas Transversais](https://github.com/gabrielvictoraraujodacruz-create/Temas_Transversais) | Anotações das 4 unidades da matéria online e o certificado de conclusão |
 | [🍃 Estudos MongoDB](https://github.com/gabrielvictoraraujodacruz-create/Estudos_MongoDB) | Anotações, exemplos no mongosh e base pra projetos com MongoDB |
 | [📚 Home Study](https://github.com/gabrielvictoraraujodacruz-create/Home_Study) | Meus estudos de casa (conteúdo privado) |
 
