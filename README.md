@@ -48,6 +48,7 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 | Certificado | Emissor | Data |
 |---|---|---|
 | [CRUD Operations in MongoDB](https://www.credly.com/badges/4d92aacb-0036-44a3-84ad-6a0607da9bbc) | MongoDB (Credly) | set/2026 |
+| [Temas Transversais (40h)](https://github.com/gabrielvictoraraujodacruz-create/Temas_Transversais/blob/main/certificado_temas_transversais.pdf) | Universidade Cruzeiro do Sul | out/2026 |
 
 ---
 
