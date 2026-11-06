@@ -85,6 +85,7 @@ Sou o Gabriel, estudante de **Engenharia de Software** em Brasília. Trabalho na
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielvictoraraujodacruz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielvictoraraujodacruz-create)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-83F3DE?style=flat-square&logoColor=003730)](https://gabrielvictoraraujodacruz-create.github.io/portfolio-gabriel/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielvictorcruz)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/gabrielvictorcruz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gabriel.vtac)
